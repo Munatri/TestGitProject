@@ -9,17 +9,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="WmMarketoProvider">10.7.0.0.7</value>
+    <value name="WmJDBCAdapter">10.3.0.0.34</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">15</value>
+  <value name="build">17</value>
   <null name="description"/>
   <value name="created_date">10-06-2025 08:54:27 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-06-10T09:28:52.163415236Z</value>
+  <value name="lastUpdated">2025-06-10T09:29:15.648547731Z</value>
   <value name="wmProjectId">flbe5d7a7c6ba54d3b36503b</value>
   <value name="creator">Munatri Baruah</value>
 </Values>
